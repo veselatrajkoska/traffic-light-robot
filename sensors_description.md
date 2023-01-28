@@ -1,4 +1,4 @@
-# Used sensors and materials:
+# Used sensors and materials
 
 ## Arduino UNO R3 
 Small Arduino board with USB cable, available at https://www.robotzade.com/Arduino-UNO-R3-Klon-USB-Kablo-Hediyeli-USB-Chip-CH340,PR-7.html.
