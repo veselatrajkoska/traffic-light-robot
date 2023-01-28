@@ -1,4 +1,4 @@
-# traffic-light-robot
+# Traffic light robot
 
 This is a simple Arduino project for the course Introduction to Robotics. 
 
